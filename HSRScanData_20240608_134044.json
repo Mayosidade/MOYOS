@@ -1,0 +1,6799 @@
+{
+    "source": "HSR-Scanner",
+    "build": "v1.1.0",
+    "version": 3,
+    "metadata": {
+        "uid": null,
+        "trailblazer": "Caelus"
+    },
+    "light_cones": [],
+    "relics": [
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_27"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_206"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_28"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_196"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 8.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_29"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_243"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 5
+                },
+                {
+                    "key": "HP_",
+                    "value": 11.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_30"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_240"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_31"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_32"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 57
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_33"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_176"
+        },
+        {
+            "set": "Belobog of the Architects",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_34"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_167"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 114
+                },
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_35"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_203"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_36"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_170"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_37"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_241"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_38"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 15.1
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_39"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_189"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 6
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_40"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_207"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_41"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_200"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_42"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_212"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 38
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_43"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_217"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 6
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_44"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_221"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 40
+                },
+                {
+                    "key": "HP_",
+                    "value": 10.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_45"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_213"
+        },
+        {
+            "set": "Sprightly Vonwacq",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 10.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_46"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_201"
+        },
+        {
+            "set": "Belobog of the Architects",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 14.0
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_47"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_227"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 9
+                },
+                {
+                    "key": "ATK_",
+                    "value": 12.0
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_48"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_192"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_49"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_188"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_50"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_183"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_51"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_194"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 59
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_52"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_230"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_53"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_191"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 4,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_54"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_208"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK",
+                    "value": 78
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_55"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                },
+                {
+                    "key": "DEF",
+                    "value": 7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_56"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_239"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 8.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_57"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_228"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_58"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "DEF",
+                    "value": 6
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_59"
+        },
+        {
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_225"
+        },
+        {
+            "set": "Genius of Brilliant Stars",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_60"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_234"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_61"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_193"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 35
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_62"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_171"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 35
+                },
+                {
+                    "key": "HP_",
+                    "value": 8.2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_63"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_169"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 67
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_64"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_185"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_65"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_204"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 42
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_66"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_229"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_67"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "ATK",
+                    "value": 19
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_209"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_68"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_236"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_69"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_232"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_70"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "DEF",
+                    "value": 21
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_197"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 18.9
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_71"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_180"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 114
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 15.6
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_72"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_214"
+        },
+        {
+            "set": "Sprightly Vonwacq",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_73"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_211"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 19.9
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_74"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_177"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 80
+                },
+                {
+                    "key": "ATK",
+                    "value": 76
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_75"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_178"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 10.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_76"
+        },
+        {
+            "set": "Belobog of the Architects",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_77"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_223"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 14.5
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_78"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_199"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 6
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_79"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_168"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 80
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_80"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_216"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_81"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_195"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 38
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_82"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_222"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 15.1
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_83"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_172"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 80
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 10.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_84"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_238"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 5,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_85"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_184"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_86"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_235"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_87"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_231"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_88"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_218"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "HP_",
+                    "value": 6.9
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_89"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_182"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_90"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_174"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_91"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_175"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_92"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_205"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_93"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_237"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 10,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_94"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_179"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 11,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_95"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_181"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 59
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_96"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_210"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 59
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_97"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_187"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 8.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_98"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_220"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 6.9
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_99"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_100"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_198"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 55
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_101"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_202"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 8.6
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_102"
+        },
+        {
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_224"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_103"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_173"
+        },
+        {
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                },
+                {
+                    "key": "ATK",
+                    "value": 35
+                },
+                {
+                    "key": "HP_",
+                    "value": 12.0
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_104"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_226"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 8
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_105"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_186"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_106"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_219"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_107"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_233"
+        },
+        {
+            "set": "Belobog of the Architects",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 40
+                },
+                {
+                    "key": "HP_",
+                    "value": 8.2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_108"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_166"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                },
+                {
+                    "key": "DEF_",
+                    "value": 14.5
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_109"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_242"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 69
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_110"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_215"
+        },
+        {
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 10.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_111"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_190"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                },
+                {
+                    "key": "DEF_",
+                    "value": 12.9
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_112"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_244"
+        },
+        {
+            "set": "Band of Sizzling Thunder",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_113"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_245"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_114"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_246"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 127
+                },
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 10.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_115"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_247"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_116"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_248"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_117"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_249"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_118"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_250"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 8,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_119"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_251"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_120"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_252"
+        },
+        {
+            "set": "Sprightly Vonwacq",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_121"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_253"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 5,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_122"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_254"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_123"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_255"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 11,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 40
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 14.5
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_124"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_256"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                },
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 14.5
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_125"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_257"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 9,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_126"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_258"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 80
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_127"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_259"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_128"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_260"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 6
+                },
+                {
+                    "key": "ATK_",
+                    "value": 10.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_129"
+        },
+        {
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_261"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 91
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_130"
+        },
+        {
+            "set": "Firesmith of Lava-Forging",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_262"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 15.9
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_131"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_263"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 5
+                },
+                {
+                    "key": "ATK_",
+                    "value": 15.1
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_132"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_264"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_265"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_266"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_140"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_267"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_268"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT Rate",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_139"
+        },
+        {
+            "set": "Genius of Brilliant Stars",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_269"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 52
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_151"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_270"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 57
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_152"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_271"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 71
+                },
+                {
+                    "key": "ATK",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_134"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_272"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 12.0
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_149"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_273"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 35
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 19.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_141"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_274"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_161"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_275"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 8.2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_159"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_276"
+        },
+        {
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 20.5
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_155"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_277"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_278"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_162"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_279"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 12,
+            "mainstat": "CRIT Rate",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 6.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_280"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_165"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_281"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 12.0
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_133"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_282"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_135"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_283"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 80
+                },
+                {
+                    "key": "DEF",
+                    "value": 5
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_142"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 4,
+            "level": 12,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 9.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_284"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 4,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_160"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 30
+                },
+                {
+                    "key": "HP_",
+                    "value": 6.5
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_285"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 8.2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_143"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_286"
+        },
+        {
+            "set": "Belobog of the Architects",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK",
+                    "value": 61
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_150"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 15
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_287"
+        },
+        {
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.1
+                },
+                {
+                    "key": "DEF_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_288"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 4,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_138"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.1
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_289"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_153"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 5,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_290"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_163"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 30
+                },
+                {
+                    "key": "ATK",
+                    "value": 13
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_291"
+        },
+        {
+            "set": "Genius of Brilliant Stars",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_156"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "HP_",
+                    "value": 2.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_292"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 9
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_154"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_293"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 11.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_146"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_294"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 59
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_157"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 13
+                },
+                {
+                    "key": "ATK_",
+                    "value": 2.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_295"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 7.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_147"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_296"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_158"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 30
+                },
+                {
+                    "key": "DEF",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_297"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 7
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_137"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_298"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_164"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_299"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 18.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_136"
+        },
+        {
+            "set": "Sprightly Vonwacq",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_300"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 19.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_148"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_301"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_144"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 15
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_302"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_145"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 2.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_303"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK",
+                    "value": 15
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_304"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_305"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_306"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 13
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_307"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 13
+                },
+                {
+                    "key": "DEF",
+                    "value": 15
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_308"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 30
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_309"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 30
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_310"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_311"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_312"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 2.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_313"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_314"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_315"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 13
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_316"
+        },
+        {
+            "set": "Broken Keel",
+            "slot": "Link Rope",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_317"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_318"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_319"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_320"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 15
+                },
+                {
+                    "key": "DEF",
+                    "value": 13
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_321"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 2.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_322"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 15
+                },
+                {
+                    "key": "HP_",
+                    "value": 2.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_323"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 13
+                },
+                {
+                    "key": "DEF",
+                    "value": 1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_324"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_325"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 30
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_326"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 27
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_327"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_328"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_329"
+        },
+        {
+            "set": "Rutilant Arena",
+            "slot": "Planar Sphere",
+            "rarity": 4,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 2.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_330"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 84
+                },
+                {
+                    "key": "DEF",
+                    "value": 40
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_26"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 15.9
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_25"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_24"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 35
+                },
+                {
+                    "key": "DEF",
+                    "value": 6
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_23"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 40
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_22"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 6
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_21"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 6
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_20"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 6.9
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_19"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 17.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_18"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_17"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 71
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_16"
+        },
+        {
+            "set": "Sprightly Vonwacq",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                },
+                {
+                    "key": "DEF_",
+                    "value": 13.5
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_15"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 19.0
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_14"
+        },
+        {
+            "set": "Eagle of Twilight Line",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_13"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 33
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_12"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_9"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 8.2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 15.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_10"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_7"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 10,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_8"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 14,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 67
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_11"
+        },
+        {
+            "set": "Pan-Cosmic Commercial Enterprise",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 55
+                },
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_3"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_6"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 19.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_5"
+        },
+        {
+            "set": "Champion of Streetwise Boxing",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 80
+                },
+                {
+                    "key": "DEF",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_1"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_2"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 4
+                },
+                {
+                    "key": "HP_",
+                    "value": 11.2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_4"
+        }
+    ],
+    "characters": []
+}
